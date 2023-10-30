@@ -1,2 +1,3 @@
-# LearningGit001
-A test repo made while doing Linkedin Learning git course
+# Learning Git 001
+
+This repository is created for learning Git basics.
